@@ -33,3 +33,5 @@
     <url>http://sourceforge.net/p/hsqldb/svn/HEAD/tree/base/tags/2.7.0</url>
   </scm>
 </project>
+
+<!-- Added to trigger github security checks -->
